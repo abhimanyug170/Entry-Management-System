@@ -17,6 +17,9 @@ Create an entry management software for visitors coming in office with context o
 
 -   NodeMailer email API
 
+### Deployed Project
+```https://innovaccer-ems.herokuapp.com/```
+
 ### Instructions to install
 
 1, Clone this repository:
